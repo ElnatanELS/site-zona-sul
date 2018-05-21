@@ -87,7 +87,7 @@
 
 	/* Body sizes */
 	.body_style_boxed .page_wrap {		width:970px; }
-	.slider_boxed, .content_wrap, .content_container {	width:910px; }
+	.slider_boxed, .content_wrap, .content_container {	width:1044px; }
 
 	/* Content and Sidebar */
 	.sidebar_show .content { width: 610px; }
@@ -102,7 +102,7 @@
     .top_panel_wrap:not(.top_panel_style_5) .menu_main_nav > li.donate-btn > a{
         min-width: 8.5em;
         color:#ffffff;
-        background-color: #1dc6df;
+        background-color: #87D37C;
         font-size: 0.7143em;
         text-align: center;
         padding: 1.2em 1.8em 1.1em;
@@ -148,7 +148,7 @@
 
 	/* Body sizes */
 	.body_style_boxed .page_wrap {		width:100%; }
-	.slider_boxed, .content_wrap, .content_container {	width:964px; }
+	.slider_boxed, .content_wrap, .content_container {	width:1000px; }
 
 	/* Content and Sidebar */
 	.sidebar_show .content { width: 664px; }
@@ -160,7 +160,7 @@
     .top_panel_wrap:not(.top_panel_style_5) .menu_main_nav > li.donate-btn > a{
         min-width: 8.5em;
         color:#ffffff;
-        background-color: #1dc6df;
+        background-color: #87D37C;
         font-size: 0.7143em;
         text-align: center;
         padding: 1.2em 1.8em 1.1em;
@@ -1850,7 +1850,7 @@ Very common low res
     .top_panel_wrap:not(.top_panel_style_5) .menu_main_nav > li.donate-btn > a {
         min-width: 8.5em;
         color: #ffffff;
-        background-color: #1dc6df;
+        background-color: #87D37C;
         font-size: 0.7143em;
         text-align: center;
         padding: 1.2em 1.8em 1.1em;
@@ -3630,7 +3630,7 @@ Very common low res
     body .booked-modal input.button-primary[type="submit"],
     body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,
     body #booked-profile-page .booked-profile-appt-list .appt-block.approved .status-block{
-        background-color : #1DC6DF;
+        background-color : #87D37C;
         margin-bottom: 1em;
     }
     body #booked-profile-page input.button-primary[type="submit"]:hover,
